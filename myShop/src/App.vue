@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
     <router-view/>
+    <p>这是我第一次提交dev</p>
   </div>
 </template>
 
